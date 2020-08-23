@@ -24,6 +24,8 @@ These are a few samples of the input images:
 
 ![](Images/Input_Image1.jpg) ![](Images/Input_Image2.jpg)
 
+Run the [Training_data.py](Training_data.py) file to create a numpy file to re duce datafetching time and sort of cache the dataset into a numpy array. This saves a lot of time and computation. That's what we really need. * Begging Nvidia for possible workstation donations :eyes: *
+
 # Output
 
 We feed in a random noise to the generator:
@@ -34,7 +36,7 @@ And after a few thousand iterations (10,000 epochs to be exact), we get the foll
 
 ![](Images/trained-100.png)
 
-The output isn't really that great but that's because of the lack of finetuning and less epochs. I hope to increase the performance in the near future. 
+The output isn't really that great :anger: but that's because of the lack of finetuning and less epochs. I hope to increase the performance in the near future. 
 
 The code is available in the [Modern Art](Modern%20Art.ipynb) notebook. Feel free to play around and modify the code.
 
