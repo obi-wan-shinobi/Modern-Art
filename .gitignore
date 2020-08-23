@@ -1,3 +1,5 @@
 *.zip
 Cubism/
 output1/
+output/
+cubism_data.npy
