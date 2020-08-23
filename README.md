@@ -24,7 +24,7 @@ These are a few samples of the input images:
 
 ![](Images/Input_Image1.jpg) ![](Images/Input_Image2.jpg)
 
-Run the [Training_data.py](Training_data.py) file to create a numpy file to reduce datafetching time and sort of cache the dataset into a numpy array. This saves a lot of time and computation. That's what we really need. * Begging Nvidia for possible workstation donations :eyes: *
+Run the [Training_data.py](Training_data.py) file to create a numpy file to reduce datafetching time and sort of cache the dataset into a numpy array. This saves a lot of time and computation. That's what we really need. *Begging Nvidia for possible workstation donations :eyes:*
 
 # Output
 
