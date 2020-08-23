@@ -42,7 +42,7 @@ The code is available in the [Modern Art](Modern%20Art.ipynb) notebook. Feel fre
 
 I hope in the near future, the network will be able to generate images such as this one:
 
-![](Images/Goal.jpg)
+![](Images/Goal.jpeg)
 
 The network has been trained over NVIDIA GTX 1060 GPU with a memory of 6 Gigabytes. It took almost 3 hours to run 10,000 epochs and the save frequency was at 100 epochs. The images produced are of size 128 x 128 pixels. 
 
