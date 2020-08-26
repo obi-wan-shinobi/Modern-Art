@@ -14,7 +14,7 @@ import numpy as np
 
 IMG_SIZE = 128
 IMG_CHANNELS = 3
-DIR = 'Cubism/'
+DIR = 'Analytical_Cubism/'
 
 
 # In[6]:
@@ -34,5 +34,5 @@ training_data = np.reshape(
 training_data = training_data / 127.5 - 1
 
 print('Saving')
-np.save('cubism_data.npy', training_data)
+np.save('analytical_cubism_data.npy', training_data)
 
