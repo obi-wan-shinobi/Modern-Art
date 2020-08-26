@@ -1,8 +1,7 @@
 *.zip
-Cubism/
-output1/
-output/
-cubism_data.npy
+*Cubism/
+output*/
+*.npy
 Final.jpg
 Untitled.ipynb
 .ipynb_checkpoints/Untitled-*
